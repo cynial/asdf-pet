@@ -19,15 +19,11 @@
 
 # Install
 
-Plugin:
-
 ```shell
 asdf plugin add pet
 # or
 asdf plugin add pet https://github.com/cynial/asdf-pet.git
 ```
-
-pet:
 
 ```shell
 # Show all installable versions
